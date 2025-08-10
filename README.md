@@ -1,5 +1,3 @@
-![MasterHead](https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/197234238/original/70492d4cced0fb9c1f6899f4be23a3c7ce2dbc34/develop-complete-asp-dot-net-mvc-application-with-database-and-bug-fixing-32e0.jpg)
-
 <h1 align="center">Hi 👋, I'm Elif Naz Demir</h1>
 <h3 align="center">Junior .NET & Full-Stack Developer | ASP.NET Core | JavaScript | SQL</h3>
 
