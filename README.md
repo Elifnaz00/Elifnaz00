@@ -1,4 +1,4 @@
- [![MasterHead](https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/272644869/original/176b3a4fcde888c78989b2fdb4e58439cabcdc33/be-yours-dedicated-dot-net-developer.jpeg)
+![MasterHead](https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/272644869/original/176b3a4fcde888c78989b2fdb4e58439cabcdc33/be-yours-dedicated-dot-net-developer.jpeg)
 
 <h1 align="center">Hi 👋, I'm Elif Naz Demir</h1>
 <h3 align="center">Junior .NET & Full-Stack Developer | ASP.NET Core | JavaScript | SQL</h3>
