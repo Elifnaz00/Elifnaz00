@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Elif Naz Demir</h1>
 <h3 align="center">Junior .NET & Full-Stack Developer | ASP.NET Core | JavaScript | SQL</h3>
 
-- 🔭 I’m currently working on [E-Commerce .NET Project](https://github.com/Elifnaz00/MyECommerceProject)
 
 - 📫 How to reach me **demirelifnaz9@gmail.com**
 
